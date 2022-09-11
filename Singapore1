@@ -1,4 +1,8 @@
 Hi This is Devendra Yadav
 This is my first code for singpore git
+<<<<<<< Updated upstream
 Today Update code
 Today update code for singapore git
+=======
+This is my Second code for Singapore Git
+>>>>>>> Stashed changes
